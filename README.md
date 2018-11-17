@@ -1,2 +1,2 @@
-# Lab_Racords
+# Lab_Records
 All lab records 
